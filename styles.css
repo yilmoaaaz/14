@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 5rem; /* تكبير حجم النص بشكل كبير */
+    color: blue;
+    font-weight: 300; /* جعل الخط رفيع بشكل بسيط */
+}
+
+h2, h3 {
+    text-align: center;
+    margin: 0.5rem;
+}
